@@ -1,1 +1,1 @@
-# artificial-neural-networks
+# neural-networks/deep-learning projects
